@@ -1,0 +1,4318 @@
+{
+    "videos": [
+        {
+            "task_id": "blacklight",
+            "video_id": "S1800001",
+            "segments": [
+                {
+                    "startTime": 2.446539,
+                    "endTime": 31.446412,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 39.529448,
+                    "endTime": 67.171,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 74.390348,
+                    "endTime": 102.386451,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 113.804661,
+                    "endTime": 179.478308,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 183.42711,
+                    "endTime": 208.035269,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 212.946993,
+                    "endTime": 256.253726,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 259.822256,
+                    "endTime": 286.760793,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 288.631648,
+                    "endTime": 312.153874,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "blacklight",
+            "video_id": "S1800002",
+            "segments": [
+                {
+                    "startTime": 4.07142,
+                    "endTime": 43.265696,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 46.145018,
+                    "endTime": 77.801142,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 78.939211,
+                    "endTime": 115.964515,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 116.475526,
+                    "endTime": 138.915239,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 141.915239,
+                    "endTime": 147.691354,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "graspe a cup for mixing liquid"
+                },
+                {
+                    "startTime": 148.170984,
+                    "endTime": 157.620048,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp a cup of water"
+                },
+                {
+                    "startTime": 158.461661,
+                    "endTime": 216.048825,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 217.590906,
+                    "endTime": 225.862599,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 226.532959,
+                    "endTime": 232.661188,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "graspe a cup of water"
+                },
+                {
+                    "startTime": 234.805304,
+                    "endTime": 274.247192,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 275.146634,
+                    "endTime": 309.568032,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 310.15636,
+                    "endTime": 325.819927,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "blacklight",
+            "video_id": "S1800003",
+            "segments": [
+                {
+                    "startTime": 6.247199,
+                    "endTime": 41.199318,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 43.535774,
+                    "endTime": 74.61033,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 75.097632,
+                    "endTime": 111.003742,
+                    "instruction": 2,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "squeeze out some drops but should only one drop"
+                },
+                {
+                    "startTime": 114.889387,
+                    "endTime": 160.215916,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 163.260562,
+                    "endTime": 186.362463,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 189.278553,
+                    "endTime": 238.981351,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 239.759736,
+                    "endTime": 257.557851,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 258.302006,
+                    "endTime": 274.70999,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "blacklight",
+            "video_id": "S1800004",
+            "segments": [
+                {
+                    "startTime": 4.385759,
+                    "endTime": 25.444874,
+                    "instruction": 0,
+                    "labels": [
+                        3
+                    ],
+                    "caption": "knock over an empty cup"
+                },
+                {
+                    "startTime": 26.148671,
+                    "endTime": 49.757933,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 50.189533,
+                    "endTime": 80.927376,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 81.107688,
+                    "endTime": 131.093475,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 132.610777,
+                    "endTime": 136.248301,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp an empty cup"
+                },
+                {
+                    "startTime": 136.940143,
+                    "endTime": 154.50811,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 156.23229,
+                    "endTime": 184.229813,
+                    "instruction": 5,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "use yellow liquid but should use green liquid"
+                },
+                {
+                    "startTime": 185.136075,
+                    "endTime": 204.304469,
+                    "instruction": 6,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "use green liquid but should use yellow liquid"
+                },
+                {
+                    "startTime": 205.076015,
+                    "endTime": 219.184564,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "blacklight",
+            "video_id": "S1800005",
+            "segments": [
+                {
+                    "startTime": 1.408185,
+                    "endTime": 63.813095,
+                    "instruction": 0,
+                    "labels": [
+                        5
+                    ],
+                    "caption": "pour much water but should pour about 15 ml\nknock over an empty cup"
+                },
+                {
+                    "startTime": 64.104591,
+                    "endTime": 100.935451,
+                    "instruction": 1,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "pour much water after squeezing the ink but should pour about 15 ml before squeezing"
+                },
+                {
+                    "startTime": 103.085009,
+                    "endTime": 126.836712,
+                    "instruction": 2,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "pour much water after squeezing the ink but should pour about 15 ml before squeezing"
+                },
+                {
+                    "startTime": 133.496974,
+                    "endTime": 198.765163,
+                    "instruction": 3,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "pour much water but should pour about 15 ml"
+                },
+                {
+                    "startTime": 201.056544,
+                    "endTime": 231.047642,
+                    "instruction": 4,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "shine on green liquid, yellow liquid, and red liquid but should also shine on powdered detergent"
+                },
+                {
+                    "startTime": 234.74023,
+                    "endTime": 259.112798,
+                    "instruction": 5,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "mix red liquid and green liquid with detergent individually but should mix all in a cup"
+                },
+                {
+                    "startTime": 259.643554,
+                    "endTime": 262.02597,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp black light"
+                },
+                {
+                    "startTime": 263.25749,
+                    "endTime": 268.613816,
+                    "instruction": 6,
+                    "labels": [
+                        5
+                    ],
+                    "caption": "pour powdered detergent into a cup of yellow liquid but should mix in an empty cup"
+                },
+                {
+                    "startTime": 269.512714,
+                    "endTime": 270.730682,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp black light"
+                },
+                {
+                    "startTime": 271.291483,
+                    "endTime": 275.376993,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 275.83211,
+                    "endTime": 282.09425,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 284.246575,
+                    "endTime": 302.803592,
+                    "instruction": -1,
+                    "labels": [
+                        5
+                    ],
+                    "caption": "mix all the liquid and shine a black light on it"
+                }
+            ]
+        },
+        {
+            "task_id": "blacklight",
+            "video_id": "S1800006",
+            "segments": [
+                {
+                    "startTime": 1.080956,
+                    "endTime": 30.091227,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 30.781773,
+                    "endTime": 55.475397,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 57.943346,
+                    "endTime": 65.070048,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp a yellow highlighter"
+                },
+                {
+                    "startTime": 66.177923,
+                    "endTime": 91.517926,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 96.248566,
+                    "endTime": 131.333203,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 133.057154,
+                    "endTime": 160.455784,
+                    "instruction": 4,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "shine on green liquid, yellow liquid, and red liquid but should also shine on powdered detergent"
+                },
+                {
+                    "startTime": 165.677965,
+                    "endTime": 184.82183204100693,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 185.532755,
+                    "endTime": 188.368519,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp a cup of yellow liquid"
+                },
+                {
+                    "startTime": 188.79178811150862,
+                    "endTime": 194.95134773585204,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 197.059906,
+                    "endTime": 222.526421,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 222.687647,
+                    "endTime": 238.180268,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "blacklight",
+            "video_id": "S1800007",
+            "segments": [
+                {
+                    "startTime": 1.976935,
+                    "endTime": 30.986227,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 33.989786,
+                    "endTime": 59.361889,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 60.098281,
+                    "endTime": 89.813207,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 94.038703,
+                    "endTime": 116.984328,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 120.547888,
+                    "endTime": 146.904356,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 148.294373,
+                    "endTime": 179.745126,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 180.316544,
+                    "endTime": 196.786389,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 197.825199,
+                    "endTime": 213.092017,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "blacklight",
+            "video_id": "S1800008",
+            "segments": [
+                {
+                    "startTime": 3.081306,
+                    "endTime": 46.314667,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 48.366125,
+                    "endTime": 88.850967,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 93.756873,
+                    "endTime": 135.327504,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 139.883649,
+                    "endTime": 190.872749,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 193.079586,
+                    "endTime": 207.875657,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 210.994749,
+                    "endTime": 241.943324,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 242.954201,
+                    "endTime": 267.424562,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 268.293791,
+                    "endTime": 279.012067,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "blacklight",
+            "video_id": "S1800009",
+            "segments": [
+                {
+                    "startTime": 3.90712,
+                    "endTime": 37.004967,
+                    "instruction": 0,
+                    "labels": [
+                        3
+                    ],
+                    "caption": "drip ink on the table"
+                },
+                {
+                    "startTime": 40.724212,
+                    "endTime": 81.703035,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 84.423161,
+                    "endTime": 109.519063,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 113.971992,
+                    "endTime": 145.391955,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 148.530377,
+                    "endTime": 174.914033,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 176.752825,
+                    "endTime": 192.629219,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 193.440637,
+                    "endTime": 204.0038,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "blacklight",
+            "video_id": "S1800010",
+            "segments": [
+                {
+                    "startTime": 1.893482,
+                    "endTime": 28.478748,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 29.06522,
+                    "endTime": 54.591491,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 55.259003,
+                    "endTime": 80.861967,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 81.812646,
+                    "endTime": 112.697332,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 113.432948,
+                    "endTime": 128.956813,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 131.537738,
+                    "endTime": 153.383999,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 155.909695,
+                    "endTime": 169.518808,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 170.474106,
+                    "endTime": 181.014167,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "cardboard",
+            "video_id": "S1810010",
+            "segments": [
+                {
+                    "startTime": 2.2359079389342336,
+                    "endTime": 88.19127816763468,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 89.67168612443476,
+                    "endTime": 148.06049633443567,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 156.57818112451005,
+                    "endTime": 175.24955222907738,
+                    "instruction": 2,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "cut off the ends of the liner"
+                },
+                {
+                    "startTime": 177.5467395999952,
+                    "endTime": 211.69264052558586,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 212.11124813295385,
+                    "endTime": 224.58315499955248,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 225.16604418095378,
+                    "endTime": 289.5977155140493,
+                    "instruction": 5,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "use tape but should use glue"
+                },
+                {
+                    "startTime": 292.36768081963254,
+                    "endTime": 352.3186484624784,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 355.4781487876405,
+                    "endTime": 698.2981143140819,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 698.8881689,
+                    "endTime": 715.8164573380699,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 724.1702209374557,
+                    "endTime": 742.1340982879857,
+                    "instruction": 11,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 742.6938096500621,
+                    "endTime": 774.1335489755345,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 774.7035071365098,
+                    "endTime": 783.5134306050315,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 784.1455355570445,
+                    "endTime": 814.0639207264525,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 814.7594310149934,
+                    "endTime": 822.4189112219686,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 822.8284293626114,
+                    "endTime": 920.5044934640883,
+                    "instruction": 12,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "use tape but should use glue"
+                },
+                {
+                    "startTime": 923.041503131594,
+                    "endTime": 928.1620501260377,
+                    "instruction": 13,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "cardboard",
+            "video_id": "S1810009",
+            "segments": [
+                {
+                    "startTime": 3.9455857643694414,
+                    "endTime": 303.0568299586499,
+                    "instruction": 0,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "draw wrong lines"
+                },
+                {
+                    "startTime": 304.20902238832775,
+                    "endTime": 437.0875703499192,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 464.89109220047294,
+                    "endTime": 523.6584344255074,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 528.0927378253965,
+                    "endTime": 572.2857465694335,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 576.8089160129867,
+                    "endTime": 627.0779189616528,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 627.7616654725854,
+                    "endTime": 696.831004542083,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 724.2630735769013,
+                    "endTime": 782.4275662370349,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 782.8282196591138,
+                    "endTime": 1072.8847211261123,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1092.327919443625,
+                    "endTime": 1136.5168367006072,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1144.2275885846323,
+                    "endTime": 1386.5216369439117,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1396.9779408759796,
+                    "endTime": 1438.7755623551375,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1450.731311514484,
+                    "endTime": 1491.4000906504948,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1492.1627939229966,
+                    "endTime": 1501.471826584027,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1502.037802882075,
+                    "endTime": 1545.8293557375584,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1546.5399111111112,
+                    "endTime": 1558.3185758954723,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1558.9932987379295,
+                    "endTime": 1566.4677631460722,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1566.8650150879726,
+                    "endTime": 1579.4053268510543,
+                    "instruction": 11,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "use unbroken chopsticks but should use broken one"
+                },
+                {
+                    "startTime": 1579.923605988114,
+                    "endTime": 1602.8604176504314,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1606.4097104235245,
+                    "endTime": 1619.6107983950183,
+                    "instruction": 11,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1628.063846,
+                    "endTime": 1628.831511,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp tape"
+                },
+                {
+                    "startTime": 1629.2464750511076,
+                    "endTime": 1940.6779532124535,
+                    "instruction": 12,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1944.3927550134165,
+                    "endTime": 1948.148184818451,
+                    "instruction": 13,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "cardboard",
+            "video_id": "S1810008",
+            "segments": [
+                {
+                    "startTime": 2.641188957978371,
+                    "endTime": 187.03305630097893,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 188.94557565865776,
+                    "endTime": 340.1670957510509,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 350.6260840905512,
+                    "endTime": 417.123062860877,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 417.90005576443184,
+                    "endTime": 436.75493773899245,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 437.3960907786382,
+                    "endTime": 468.6056412631068,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 469.84776537611066,
+                    "endTime": 505.5869733015125,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 506.4498351739625,
+                    "endTime": 778.1149785214267,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 782.378880701911,
+                    "endTime": 821.3134943955855,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 822.7663450279455,
+                    "endTime": 1195.789658533535,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1198.1487015760715,
+                    "endTime": 1246.3196680629533,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1247.0547832220143,
+                    "endTime": 1257.8281355824354,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1258.4552262510374,
+                    "endTime": 1287.5862256455775,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1288.1694377984375,
+                    "endTime": 1295.166207770427,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1307.3585757294845,
+                    "endTime": 1421.8040092991225,
+                    "instruction": 12,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "cardboard",
+            "video_id": "S1810007",
+            "segments": [
+                {
+                    "startTime": 2.978152750579356,
+                    "endTime": 185.06942104244573,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 185.60033875106976,
+                    "endTime": 253.48895893083477,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 254.24317177047723,
+                    "endTime": 295.0338433610975,
+                    "instruction": -1,
+                    "labels": [
+                        3
+                    ],
+                    "caption": "cut off the ends of the liner"
+                },
+                {
+                    "startTime": 296.6849797875679,
+                    "endTime": 335.5416850369587,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 335.5416850369587,
+                    "endTime": 346.22083385462406,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 346.73590477909266,
+                    "endTime": 451.4633184380584,
+                    "instruction": 5,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "use tape but should use glue"
+                },
+                {
+                    "startTime": 454.4305576404945,
+                    "endTime": 497.9149199004757,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 498.8176201239736,
+                    "endTime": 688.4788804515448,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 693.1822691011062,
+                    "endTime": 745.0893720615306,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 745.6801173744665,
+                    "endTime": 755.7435222222222,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 756.2382937848492,
+                    "endTime": 850.3108739655163,
+                    "instruction": 12,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 851.3803174869153,
+                    "endTime": 903.9559855144843,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 904.573386181453,
+                    "endTime": 1035.3685688403925,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1038.4313878516143,
+                    "endTime": 1074.411553100415,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1075.3491664,
+                    "endTime": 1086.0873560004895,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1087.3816418064944,
+                    "endTime": 1097.4656256499636,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1098.2350680999753,
+                    "endTime": 1132.8379904619896,
+                    "instruction": 11,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "use cutter knife to widen hole but should use chopsticks"
+                },
+                {
+                    "startTime": 1133.713952854356,
+                    "endTime": 1222.0069928,
+                    "instruction": 12,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1223.2529881249588,
+                    "endTime": 1227.969268792137,
+                    "instruction": 13,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "cardboard",
+            "video_id": "S1810006",
+            "segments": [
+                {
+                    "startTime": 2.925363041344191,
+                    "endTime": 213.3656858873993,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 217.11799333879318,
+                    "endTime": 295.1985384810405,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 302.96845062594394,
+                    "endTime": 421.48367299291755,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 439.40561726200576,
+                    "endTime": 556.2788707670388,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 565.0441757010656,
+                    "endTime": 583.0078694,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp cutter knife"
+                },
+                {
+                    "startTime": 584.5295283897315,
+                    "endTime": 687.8274333890398,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 694.2422634497025,
+                    "endTime": 925.6656827,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 929.5599813339668,
+                    "endTime": 948.9608686391257,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 950.1468435991516,
+                    "endTime": 1272.5674247,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1277.9567111111112,
+                    "endTime": 1286.084639099775,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp lid and bottom"
+                },
+                {
+                    "startTime": 1287.2177320555118,
+                    "endTime": 1369.5284709,
+                    "instruction": 4,
+                    "labels": [
+                        5
+                    ],
+                    "caption": "not able to fold because there are no incisions"
+                },
+                {
+                    "startTime": 1370.4663654348847,
+                    "endTime": 1411.47992080476,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1412.34246283328,
+                    "endTime": 1432.7904741667307,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1433.7762509833933,
+                    "endTime": 1485.4951374996303,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1493.445346898967,
+                    "endTime": 1540.2277625332179,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1541.2967836652235,
+                    "endTime": 1550.3277381844553,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1551.0929378069654,
+                    "endTime": 1579.3355660844422,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1580.9016710494493,
+                    "endTime": 1595.0170163164232,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1601.0959072503422,
+                    "endTime": 1647.2514659495898,
+                    "instruction": 11,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1653.1935255270841,
+                    "endTime": 1989.163250833548,
+                    "instruction": 12,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1990.1087032776743,
+                    "endTime": 2004.6313421686182,
+                    "instruction": 13,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "cardboard",
+            "video_id": "S1810003",
+            "segments": [
+                {
+                    "startTime": 3.0534346529715464,
+                    "endTime": 132.54499829259336,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 133.5628637001053,
+                    "endTime": 238.86945987549416,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 242.1234186459256,
+                    "endTime": 309.8333922010798,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 313.0310789309276,
+                    "endTime": 361.5971340119327,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 363.6686659929782,
+                    "endTime": 374.3158886885966,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 375.1269010380376,
+                    "endTime": 418.4588701625109,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 425.85824128493863,
+                    "endTime": 484.9849780120601,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 487.9426469091504,
+                    "endTime": 1082.8046718690941,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1084.6275438885923,
+                    "endTime": 1105.315097475481,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1106.7447669000283,
+                    "endTime": 1128.3780062850303,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1132.3303513256274,
+                    "endTime": 1183.8215196674175,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1195.8133752644585,
+                    "endTime": 1211.7165296999633,
+                    "instruction": 11,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1215.7098746194727,
+                    "endTime": 1392.3620167499496,
+                    "instruction": 12,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "cardboard",
+            "video_id": "S1810004",
+            "segments": [
+                {
+                    "startTime": 2.1488161247738335,
+                    "endTime": 171.78796432447956,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 174.06428613142018,
+                    "endTime": 302.871759778985,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 306.3902325150784,
+                    "endTime": 345.49074681240404,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 347.2236713050078,
+                    "endTime": 378.691717,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 378.691717,
+                    "endTime": 405.097067,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 405.98032090300774,
+                    "endTime": 431.3690011509305,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 433.4156934115968,
+                    "endTime": 510.69666657464643,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 515.8342137509943,
+                    "endTime": 1021.38953571396,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1024.8513476674293,
+                    "endTime": 1052.8114453129497,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1063.8793597975614,
+                    "endTime": 1099.5326882629913,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1100.008987724964,
+                    "endTime": 1116.2527101594446,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1116.9924718345349,
+                    "endTime": 1151.4408861395802,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1152.1044622505137,
+                    "endTime": 1162.0487150079198,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1164.2430387710888,
+                    "endTime": 1181.8383132416736,
+                    "instruction": 11,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1192.1821080833538,
+                    "endTime": 1370.8500081115783,
+                    "instruction": 12,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1371.73640416707,
+                    "endTime": 1377.3616033336496,
+                    "instruction": 13,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "cardboard",
+            "video_id": "S1810002",
+            "segments": [
+                {
+                    "startTime": 4.082501040976844,
+                    "endTime": 319.7837930672905,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 322.00438625002045,
+                    "endTime": 386.2657434635966,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 390.2786527645017,
+                    "endTime": 442.3843164249733,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 445.11697582605996,
+                    "endTime": 506.5613274879381,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 507.5862785000074,
+                    "endTime": 523.9094121599506,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 524.638911899988,
+                    "endTime": 607.4338068139137,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 614.0764624239276,
+                    "endTime": 743.2081234864947,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 744.0602731243974,
+                    "endTime": 1165.1706722490349,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1175.60479395108,
+                    "endTime": 1198.439457601087,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1199.2705729099641,
+                    "endTime": 1272.7508722020223,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1273.809028138347,
+                    "endTime": 1288.7022596758582,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1289.4643571819972,
+                    "endTime": 1302.8669168375927,
+                    "instruction": 11,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1305.6334846469754,
+                    "endTime": 1500.7232727375813,
+                    "instruction": 12,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1501.4529227441294,
+                    "endTime": 1504.4345617438946,
+                    "instruction": 13,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "cardboard",
+            "video_id": "S1810001",
+            "segments": [
+                {
+                    "startTime": 4.260584216920219,
+                    "endTime": 232.06703703472766,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 235.6535410665523,
+                    "endTime": 336.84404474847406,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 344.5282801989678,
+                    "endTime": 445.9221572833648,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 460.1465886950269,
+                    "endTime": 504.48359172362865,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 510.9324657230162,
+                    "endTime": 581.4509759167304,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 589.6275535827596,
+                    "endTime": 635.1700933653374,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 656.6150620554062,
+                    "endTime": 830.121508375499,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 830.8030981526862,
+                    "endTime": 1004.6150922762645,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1005.3256064098271,
+                    "endTime": 1049.188545189649,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1052.2843851876762,
+                    "endTime": 1753.940017351907,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1768.4642599652889,
+                    "endTime": 1805.5169894987996,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1808.3654990565503,
+                    "endTime": 1851.0933106158534,
+                    "instruction": 11,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1858.9560640167342,
+                    "endTime": 2034.9680345166992,
+                    "instruction": 12,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 2037.0879961393132,
+                    "endTime": 2043.0898747769722,
+                    "instruction": 13,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "cardboard",
+            "video_id": "S1810005",
+            "segments": [
+                {
+                    "startTime": 5.70747036129656,
+                    "endTime": 203.7323382505378,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 208.22242296548404,
+                    "endTime": 309.3833791811077,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 317.8154726761379,
+                    "endTime": 357.485802681552,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 363.4426402129471,
+                    "endTime": 383.8263671,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 384.5573916009996,
+                    "endTime": 390.3444727435564,
+                    "instruction": 4,
+                    "labels": [
+                        5
+                    ],
+                    "caption": "can't fold cardboard"
+                },
+                {
+                    "startTime": 391.0162550345133,
+                    "endTime": 410.64207200049384,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 411.2618130003834,
+                    "endTime": 428.0884954499067,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 428.7099275695985,
+                    "endTime": 475.31867739003394,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 479.7143402,
+                    "endTime": 548.3791795741082,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 553.9446998749972,
+                    "endTime": 926.3982377645116,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 934.0486622746042,
+                    "endTime": 953.3602314935666,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 958.2884544440195,
+                    "endTime": 988.1100268004054,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 988.7805339045767,
+                    "endTime": 1000.2992526109152,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1000.2992526109152,
+                    "endTime": 1033.8972757615256,
+                    "instruction": 9,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1034.5931114858463,
+                    "endTime": 1048.8983304729163,
+                    "instruction": 10,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1053.610223923943,
+                    "endTime": 1077.6352950494954,
+                    "instruction": 11,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1086.4463555555556,
+                    "endTime": 1246.7076154513866,
+                    "instruction": 12,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 1247.6471193895673,
+                    "endTime": 1252.8926822509407,
+                    "instruction": 13,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "electronics",
+            "video_id": "S1790009",
+            "segments": [
+                {
+                    "startTime": 2.368033,
+                    "endTime": 19.473197,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 20.767992,
+                    "endTime": 24.520106,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp lamp l1"
+                },
+                {
+                    "startTime": 25.208654,
+                    "endTime": 40.999024,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 54.122704,
+                    "endTime": 116.200476,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 120.636286,
+                    "endTime": 132.843671,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 135.481637,
+                    "endTime": 143.641809,
+                    "instruction": 4,
+                    "labels": [
+                        3
+                    ],
+                    "caption": "drop propeller from motor"
+                },
+                {
+                    "startTime": 147.088974,
+                    "endTime": 158.833721,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 162.334295,
+                    "endTime": 163.211009,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 167.036178,
+                    "endTime": 173.651058,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "electronics",
+            "video_id": "S1790013",
+            "segments": [
+                {
+                    "startTime": 3.825562,
+                    "endTime": 17.686241,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 18.440117,
+                    "endTime": 39.820432,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 49.101282,
+                    "endTime": 98.860976,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 99.446915,
+                    "endTime": 155.518109,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 161.793391,
+                    "endTime": 169.890563,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 170.921026,
+                    "endTime": 189.914217,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 190.555386,
+                    "endTime": 192.796788,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 195.565638,
+                    "endTime": 201.157488,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "electronics",
+            "video_id": "S1790012",
+            "segments": [
+                {
+                    "startTime": 1.552707,
+                    "endTime": 23.925244,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 30.728785,
+                    "endTime": 36.698387,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp switch s1 and one-snap wire"
+                },
+                {
+                    "startTime": 44.366958,
+                    "endTime": 55.072298,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 61.82141,
+                    "endTime": 145.572015,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 148.31765,
+                    "endTime": 232.568474,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 233.282798,
+                    "endTime": 237.245515,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 238.135802,
+                    "endTime": 240.844425,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 241.456101,
+                    "endTime": 247.936624,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 248.437203,
+                    "endTime": 249.387106,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 249.688676,
+                    "endTime": 262.107854,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "electronics",
+            "video_id": "S1790010",
+            "segments": [
+                {
+                    "startTime": 2.003424,
+                    "endTime": 17.239257,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 19.062187,
+                    "endTime": 47.561262,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 58.30325,
+                    "endTime": 86.584015,
+                    "instruction": 2,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "connect switch s2 and lamp l1 in series, but should connect them in parallel"
+                },
+                {
+                    "startTime": 91.565244,
+                    "endTime": 155.910242,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 159.638325,
+                    "endTime": 168.502914,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 172.980471,
+                    "endTime": 185.743146,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 192.170458,
+                    "endTime": 198.730499,
+                    "instruction": 6,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "put batteries in the wrong direction"
+                },
+                {
+                    "startTime": 199.517751,
+                    "endTime": 206.436065,
+                    "instruction": -1,
+                    "labels": [
+                        2
+                    ],
+                    "caption": "correct error in step 6"
+                },
+                {
+                    "startTime": 208.985093,
+                    "endTime": 213.769786,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 215.664228,
+                    "endTime": 218.372629,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 219.534374,
+                    "endTime": 224.800749,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "electronics",
+            "video_id": "S1790007",
+            "segments": [
+                {
+                    "startTime": 2.247507,
+                    "endTime": 9.413659,
+                    "instruction": 0,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "place only the battery box but should connect it and switch s1"
+                },
+                {
+                    "startTime": 10.443852,
+                    "endTime": 26.696743,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 27.208475,
+                    "endTime": 56.237859,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 57.031498,
+                    "endTime": 63.898072,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 64.382374,
+                    "endTime": 68.026931,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 68.530722,
+                    "endTime": 77.496067,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 78.198699,
+                    "endTime": 84.097636,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 85.117501,
+                    "endTime": 96.422487,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 97.222382,
+                    "endTime": 98.987779,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 99.715522,
+                    "endTime": 110.150044,
+                    "instruction": 7,
+                    "labels": [
+                        3
+                    ],
+                    "caption": "blow up the propeller"
+                }
+            ]
+        },
+        {
+            "task_id": "electronics",
+            "video_id": "S1790006",
+            "segments": [
+                {
+                    "startTime": 0.546144,
+                    "endTime": 14.837093,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 15.867049,
+                    "endTime": 21.263961,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 24.412617,
+                    "endTime": 44.671457,
+                    "instruction": 2,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "connect the switch s2 and lamp l1 in series but should connect them in parallel"
+                },
+                {
+                    "startTime": 44.752249,
+                    "endTime": 45.780018,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp a two-snap wire"
+                },
+                {
+                    "startTime": 46.227343,
+                    "endTime": 63.398515,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 65.509373,
+                    "endTime": 71.729097,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 72.783801,
+                    "endTime": 74.427403,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 75.601911,
+                    "endTime": 91.322291,
+                    "instruction": 7,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "at the same time, turn on and off the switch s1 again and again"
+                }
+            ]
+        },
+        {
+            "task_id": "electronics",
+            "video_id": "S1790005",
+            "segments": [
+                {
+                    "startTime": 2.188305,
+                    "endTime": 16.251588,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 17.745301,
+                    "endTime": 22.975751,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 27.084153,
+                    "endTime": 67.062784,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 68.46892,
+                    "endTime": 84.993874,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 86.196809,
+                    "endTime": 93.121725,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 94.210695,
+                    "endTime": 105.240346,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 106.428527,
+                    "endTime": 107.564151,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 108.766539,
+                    "endTime": 118.974306,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "electronics",
+            "video_id": "S1790004",
+            "segments": [
+                {
+                    "startTime": 2.273449,
+                    "endTime": 22.072877,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 23.596156,
+                    "endTime": 30.258074,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 36.399776,
+                    "endTime": 56.020768,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 57.89796,
+                    "endTime": 59.389126,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp a two-snap wire"
+                },
+                {
+                    "startTime": 60.431565,
+                    "endTime": 91.255487,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 92.405455,
+                    "endTime": 105.408648,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 106.243124,
+                    "endTime": 116.442344,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 119.091883,
+                    "endTime": 129.45496,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 130.706678,
+                    "endTime": 134.588229,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 135.613869,
+                    "endTime": 152.98941,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "electronics",
+            "video_id": "S1790003",
+            "segments": [
+                {
+                    "startTime": 1.782989,
+                    "endTime": 23.583223,
+                    "instruction": 0,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "use switch s2 but should use switch s1"
+                },
+                {
+                    "startTime": 30.482145,
+                    "endTime": 41.605888,
+                    "instruction": 1,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "use switch s2 but should use switch s1"
+                },
+                {
+                    "startTime": 49.052818458136734,
+                    "endTime": 98.59691365037789,
+                    "instruction": 2,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "use switch s1 but should use switch s2"
+                },
+                {
+                    "startTime": 101.358179,
+                    "endTime": 106.98762295823434,
+                    "instruction": 3,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "use switch s1 but should use switch s2"
+                },
+                {
+                    "startTime": 108.148155,
+                    "endTime": 112.848304,
+                    "instruction": 2,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "use switch s1 but should use switch s2"
+                },
+                {
+                    "startTime": 113.651454,
+                    "endTime": 140.402602,
+                    "instruction": 3,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "use switch s1 but should use switch s2"
+                },
+                {
+                    "startTime": 141.214682,
+                    "endTime": 147.387864,
+                    "instruction": 2,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "use switch s1 but should use switch s2"
+                },
+                {
+                    "startTime": 150.865857,
+                    "endTime": 156.876293,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 157.818198,
+                    "endTime": 177.501426,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 182.581603,
+                    "endTime": 185.076667,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 186.0965,
+                    "endTime": 188.605659,
+                    "instruction": 6,
+                    "labels": [
+                        5
+                    ],
+                    "caption": "after turning on the switch s1, turn off it"
+                },
+                {
+                    "startTime": 189.20838,
+                    "endTime": 200.718739,
+                    "instruction": 7,
+                    "labels": [
+                        5
+                    ],
+                    "caption": "at the same time, also turn on the switch s1 then turn off it"
+                }
+            ]
+        },
+        {
+            "task_id": "electronics",
+            "video_id": "S1790001",
+            "segments": [
+                {
+                    "startTime": 6.359313,
+                    "endTime": 37.190348,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 43.46184,
+                    "endTime": 54.770191,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 72.308933,
+                    "endTime": 116.153124,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 126.582565,
+                    "endTime": 142.978889,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 145.73611,
+                    "endTime": 166.341397,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 169.423702,
+                    "endTime": 175.906453,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp a propeller"
+                },
+                {
+                    "startTime": 179.836899,
+                    "endTime": 203.745241,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 204.414828,
+                    "endTime": 207.919815,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 210.099788,
+                    "endTime": 215.845108,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 227.149464,
+                    "endTime": 244.951186,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 253.364173,
+                    "endTime": 254.0912,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 258.753024,
+                    "endTime": 261.630514,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "ion",
+            "video_id": "S1730006",
+            "segments": [
+                {
+                    "startTime": 2.111,
+                    "endTime": 6.006359,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 8.379988,
+                    "endTime": 19.340128,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 22.700926,
+                    "endTime": 72.15712,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 72.880118,
+                    "endTime": 118.043555,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 118.526163,
+                    "endTime": 167.340962,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 167.965227,
+                    "endTime": 185.051371,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 187.940633,
+                    "endTime": 202.544462,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 203.098085,
+                    "endTime": 216.728918,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 225.071289,
+                    "endTime": 244.810836,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "ion",
+            "video_id": "S1730005",
+            "segments": [
+                {
+                    "startTime": 1.993213,
+                    "endTime": 5.92068,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 7.296843,
+                    "endTime": 24.430883,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 27.408083,
+                    "endTime": 93.260198,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 97.399042,
+                    "endTime": 156.866781,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 157.451468,
+                    "endTime": 216.916565,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 217.927145,
+                    "endTime": 237.28691,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 238.407464,
+                    "endTime": 255.663587,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 256.510698,
+                    "endTime": 270.52632,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 278.029578,
+                    "endTime": 298.741629,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "ion",
+            "video_id": "S1730002",
+            "segments": [
+                {
+                    "startTime": 2.336148,
+                    "endTime": 6.208483,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 7.659611,
+                    "endTime": 16.883129,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 23.657597,
+                    "endTime": 25.361398,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp case of zinc plates"
+                },
+                {
+                    "startTime": 27.317968,
+                    "endTime": 84.871945,
+                    "instruction": 4,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "put three magnesium plates on the bottom row of the microplate but should put them on the right column"
+                },
+                {
+                    "startTime": 86.188091,
+                    "endTime": 124.654285,
+                    "instruction": 2,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "put two copper plates on the top row of the microplate but should put them on the left column"
+                },
+                {
+                    "startTime": 131.832769,
+                    "endTime": 178.95429,
+                    "instruction": -1,
+                    "labels": [
+                        2
+                    ],
+                    "caption": "correct errors in step 2 and 4"
+                },
+                {
+                    "startTime": 185.397376,
+                    "endTime": 234.25569,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 234.74387,
+                    "endTime": 259.380409,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 260.000094,
+                    "endTime": 262.543859,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp magnesium sulfate aqueous"
+                },
+                {
+                    "startTime": 263.224043,
+                    "endTime": 278.331008,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 279.323135,
+                    "endTime": 300.988372,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 308.58304,
+                    "endTime": 358.183978,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "ion",
+            "video_id": "S1720010",
+            "segments": [
+                {
+                    "startTime": 1.223764,
+                    "endTime": 3.343703,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 5.729048,
+                    "endTime": 11.232268,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 16.89185,
+                    "endTime": 68.501099,
+                    "instruction": 2,
+                    "labels": [
+                        3
+                    ],
+                    "caption": "drop copper plates on the table then pick them up with fingers"
+                },
+                {
+                    "startTime": 74.14388,
+                    "endTime": 112.262182,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 113.138378,
+                    "endTime": 147.610262,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 152.345865,
+                    "endTime": 174.95686,
+                    "instruction": 5,
+                    "labels": [
+                        5
+                    ],
+                    "caption": "put two drops on a copper plate"
+                },
+                {
+                    "startTime": 175.82016,
+                    "endTime": 192.635928,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 194.433668,
+                    "endTime": 208.369437,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 209.12949,
+                    "endTime": 233.878532,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "ion",
+            "video_id": "S1730004",
+            "segments": [
+                {
+                    "startTime": 1.814214,
+                    "endTime": 6.118014,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 8.157972,
+                    "endTime": 25.205836,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 31.453234,
+                    "endTime": 83.109105,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 83.95707,
+                    "endTime": 126.290369,
+                    "instruction": 4,
+                    "labels": [
+                        5
+                    ],
+                    "caption": "place two magnesium plates on the last step and put one back"
+                },
+                {
+                    "startTime": 126.521562,
+                    "endTime": 211.339886,
+                    "instruction": -1,
+                    "labels": [
+                        3
+                    ],
+                    "caption": "scatter some zinc plates and put them back with fingers"
+                },
+                {
+                    "startTime": 216.083687,
+                    "endTime": 239.869663,
+                    "instruction": 5,
+                    "labels": [
+                        3
+                    ],
+                    "caption": "put a first drop of copper sulfate aqueous on the top of the microplate not the metal plate"
+                },
+                {
+                    "startTime": 240.689098,
+                    "endTime": 258.408678,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 258.768527,
+                    "endTime": 274.230461,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 274.702715,
+                    "endTime": 297.8619,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "ion",
+            "video_id": "S1720005",
+            "segments": [
+                {
+                    "startTime": 2.360887,
+                    "endTime": 6.544855,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 8.58635,
+                    "endTime": 22.934822,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 24.332095,
+                    "endTime": 76.232271,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 77.456258,
+                    "endTime": 130.439074,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 132.795674,
+                    "endTime": 183.442082,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 187.320656,
+                    "endTime": 209.843571,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 211.652404,
+                    "endTime": 233.639527,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 234.18494,
+                    "endTime": 256.788513,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 262.485533,
+                    "endTime": 283.744767,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "ion",
+            "video_id": "S1720004",
+            "segments": [
+                {
+                    "startTime": 4.282966,
+                    "endTime": 9.829906,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 10.552557,
+                    "endTime": 20.483821,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 21.499755,
+                    "endTime": 153.189265,
+                    "instruction": 2,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "once put copper plates on the desk then pick them up with fingeres but should put them directly from the container with the pair of tweezers"
+                },
+                {
+                    "startTime": 155.436114,
+                    "endTime": 203.205269,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 203.703209,
+                    "endTime": 243.246359,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 255.936886,
+                    "endTime": 289.242209,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 290.337478,
+                    "endTime": 318.688955,
+                    "instruction": 7,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "put a drop of magnesium sulfate aqueous solution on each middle row but should put it on each last row"
+                },
+                {
+                    "startTime": 319.200127,
+                    "endTime": 339.079996,
+                    "instruction": 6,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "put a drop of zinc sulfate aqueous solution on each last row but should put it on each middle row"
+                },
+                {
+                    "startTime": 350.96233,
+                    "endTime": 403.0026,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "ion",
+            "video_id": "S1720002",
+            "segments": [
+                {
+                    "startTime": 1.908511,
+                    "endTime": 7.83134,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 10.217116,
+                    "endTime": 16.751173,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 17.641365,
+                    "endTime": 61.000404,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 61.509436,
+                    "endTime": 101.706243,
+                    "instruction": -1,
+                    "labels": [
+                        5
+                    ],
+                    "caption": "scatter pieces of zinc\nput three zinc plates on the right column, but should on the center column"
+                },
+                {
+                    "startTime": 102.266456,
+                    "endTime": 132.797309,
+                    "instruction": 4,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "put three magnesium plates on the center column, but should on the right column"
+                },
+                {
+                    "startTime": 139.509946,
+                    "endTime": 157.242538,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 158.023302,
+                    "endTime": 175.812376,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 176.549034,
+                    "endTime": 194.456267,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 197.213643,
+                    "endTime": 198.816735,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp a pair of tweezers"
+                },
+                {
+                    "startTime": 199.186761,
+                    "endTime": 262.934215,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "ion",
+            "video_id": "S1720001",
+            "segments": [
+                {
+                    "startTime": 0.85058,
+                    "endTime": 6.645978,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 10.450061,
+                    "endTime": 21.806679,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 22.888834,
+                    "endTime": 78.433845,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 80.429471,
+                    "endTime": 118.810822,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 119.409219,
+                    "endTime": 171.903121,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 178.992782,
+                    "endTime": 210.054414,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 211.825219,
+                    "endTime": 232.566686,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 233.767026,
+                    "endTime": 260.393912,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 286.364865,
+                    "endTime": 330.307812,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "ion",
+            "video_id": "S1720006",
+            "segments": [
+                {
+                    "startTime": 1.655378,
+                    "endTime": 4.71935,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 7.935505,
+                    "endTime": 32.521929,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 32.591665,
+                    "endTime": 74.163027,
+                    "instruction": 2,
+                    "labels": [
+                        3
+                    ],
+                    "caption": "drop a copper plate on the tables then pick it up with fingers"
+                },
+                {
+                    "startTime": 75.019911,
+                    "endTime": 146.215275,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 146.790839,
+                    "endTime": 177.940264,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 179.954966,
+                    "endTime": 239.026011,
+                    "instruction": 2,
+                    "labels": [
+                        3
+                    ],
+                    "caption": "drop copper plates on the table then pick them up with fingers"
+                },
+                {
+                    "startTime": 245.876641,
+                    "endTime": 280.389023,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 283.10963,
+                    "endTime": 305.827919,
+                    "instruction": 6,
+                    "labels": [
+                        5
+                    ],
+                    "caption": "put two drops on the metal plate in the center of the microplate"
+                },
+                {
+                    "startTime": 306.288301,
+                    "endTime": 323.25157,
+                    "instruction": 7,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 335.358741,
+                    "endTime": 377.787492,
+                    "instruction": 8,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "tsumiki",
+            "video_id": "S1760005",
+            "segments": [
+                {
+                    "startTime": 2.657644,
+                    "endTime": 12.180405,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 14.853847,
+                    "endTime": 22.419849,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 28.438792,
+                    "endTime": 41.176493,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 46.418645,
+                    "endTime": 53.901079,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 58.536891,
+                    "endTime": 65.09486,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 67.419305,
+                    "endTime": 69.799496,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 70.5589,
+                    "endTime": 78.851617,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "tsumiki",
+            "video_id": "S1750001",
+            "segments": [
+                {
+                    "startTime": 10.977283,
+                    "endTime": 26.114744,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 27.192339,
+                    "endTime": 54.593778,
+                    "instruction": 1,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "bridge two short thin cuboid blocks but should bridge two long thin cuboid blocks\n"
+                },
+                {
+                    "startTime": 61.970011,
+                    "endTime": 77.86108,
+                    "instruction": 2,
+                    "labels": [
+                        0
+                    ],
+                    "caption": "stand three long thin cuboid blocks but should stand three short thin cuboid blocks"
+                },
+                {
+                    "startTime": 80.210015,
+                    "endTime": 86.189463,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp a red long thin cuboid block"
+                },
+                {
+                    "startTime": 87.597097,
+                    "endTime": 90.045695,
+                    "instruction": -1,
+                    "labels": [
+                        2
+                    ],
+                    "caption": "correct errors in steps 1 and 2"
+                },
+                {
+                    "startTime": 94.548196,
+                    "endTime": 97.260485,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 101.233484,
+                    "endTime": 106.887042,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 109.168356,
+                    "endTime": 111.786681,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 114.909594,
+                    "endTime": 124.949293,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 128.334868,
+                    "endTime": 133.787703,
+                    "instruction": 3,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "bridge the blocks from left to right in the order of red and yellow but should bridge them in the order of yellow and red"
+                },
+                {
+                    "startTime": 134.982872,
+                    "endTime": 141.539439,
+                    "instruction": -1,
+                    "labels": [
+                        2
+                    ],
+                    "caption": "correct error in step 3"
+                },
+                {
+                    "startTime": 142.224013,
+                    "endTime": 149.2163,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 150.815111,
+                    "endTime": 154.386916,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 154.942413,
+                    "endTime": 156.775155,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp a red triangular prism"
+                },
+                {
+                    "startTime": 157.529973,
+                    "endTime": 173.040886,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "tsumiki",
+            "video_id": "S1750003",
+            "segments": [
+                {
+                    "startTime": 1.166481,
+                    "endTime": 9.408487,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 11.596443,
+                    "endTime": 19.970627,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 23.958443,
+                    "endTime": 33.411741,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 35.673019,
+                    "endTime": 44.992807,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 48.134831,
+                    "endTime": 62.55891,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 67.975257,
+                    "endTime": 71.967343,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 74.987438,
+                    "endTime": 85.5382,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "tsumiki",
+            "video_id": "S1750004",
+            "segments": [
+                {
+                    "startTime": 3.921232,
+                    "endTime": 23.104575,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 28.451067,
+                    "endTime": 37.276148,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 45.890836,
+                    "endTime": 61.85681,
+                    "instruction": 2,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "stand blocks from left to right in the order of green, yellow, and blue but should stand them in the order of blue, green, and yellow"
+                },
+                {
+                    "startTime": 66.218705,
+                    "endTime": 69.201515,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp a yellow block"
+                },
+                {
+                    "startTime": 70.201089,
+                    "endTime": 79.964358,
+                    "instruction": 3,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "bridge blocks from left to right in the order of red and yellow but should bridge them in the order of yellow and red"
+                },
+                {
+                    "startTime": 83.477685,
+                    "endTime": 92.359863,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 93.888308,
+                    "endTime": 99.301088,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 103.349526,
+                    "endTime": 116.10933,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "tsumiki",
+            "video_id": "S1750005",
+            "segments": [
+                {
+                    "startTime": 2.255868,
+                    "endTime": 14.05363,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 17.79292,
+                    "endTime": 30.035845,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 35.731844,
+                    "endTime": 50.792531,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 57.00711,
+                    "endTime": 70.530281,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 72.771514,
+                    "endTime": 83.019383,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 84.439566,
+                    "endTime": 89.76853,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 93.063437,
+                    "endTime": 105.328099,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "tsumiki",
+            "video_id": "S1760001",
+            "segments": [
+                {
+                    "startTime": 3.803557,
+                    "endTime": 14.381426,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 22.60733,
+                    "endTime": 37.141052,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 46.074014,
+                    "endTime": 60.078668,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 70.491995,
+                    "endTime": 79.701311,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 85.191867,
+                    "endTime": 95.154453,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 101.823733,
+                    "endTime": 105.570023,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 110.07507,
+                    "endTime": 120.347468,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "tsumiki",
+            "video_id": "S1760002",
+            "segments": [
+                {
+                    "startTime": 3.052484,
+                    "endTime": 11.110749,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 14.596802,
+                    "endTime": 29.288345,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 31.511115,
+                    "endTime": 47.525754,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 53.297632,
+                    "endTime": 64.060546,
+                    "instruction": 3,
+                    "labels": [
+                        3
+                    ],
+                    "caption": "collapse blocks"
+                },
+                {
+                    "startTime": 66.902215,
+                    "endTime": 69.154813,
+                    "instruction": -1,
+                    "labels": [
+                        2
+                    ],
+                    "caption": "correct error in step 3"
+                },
+                {
+                    "startTime": 69.167251,
+                    "endTime": 72.639929,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 73.471693,
+                    "endTime": 81.907347,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 88.523883,
+                    "endTime": 99.558554,
+                    "instruction": 4,
+                    "labels": [
+                        5
+                    ],
+                    "caption": "place blocks from left to right in the order of red and yellow but should put them in the order of yellow and red"
+                },
+                {
+                    "startTime": 100.730142,
+                    "endTime": 104.585828,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 105.618636,
+                    "endTime": 114.919865,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "tsumiki",
+            "video_id": "S1760003",
+            "segments": [
+                {
+                    "startTime": 0.900882,
+                    "endTime": 14.839905,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 16.889127,
+                    "endTime": 25.488118,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 33.169524,
+                    "endTime": 51.226279,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 56.170139,
+                    "endTime": 63.228826,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 68.32883,
+                    "endTime": 79.541997,
+                    "instruction": 4,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "place two blocks apart but should put them together"
+                },
+                {
+                    "startTime": 82.665324,
+                    "endTime": 88.974226,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "graspe blue building blocks"
+                },
+                {
+                    "startTime": 89.766853,
+                    "endTime": 93.743183,
+                    "instruction": -1,
+                    "labels": [
+                        2
+                    ],
+                    "caption": "correct error in step 4"
+                },
+                {
+                    "startTime": 94.689199,
+                    "endTime": 97.468995,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 101.678186,
+                    "endTime": 110.755232,
+                    "instruction": 6,
+                    "labels": [
+                        4
+                    ],
+                    "caption": "place the two triangular prism blocks on the left side of the yellow and the right side of the red thick cuboid blocks but should place them on both sides of the blue thick cuboid block"
+                },
+                {
+                    "startTime": 113.675586,
+                    "endTime": 119.965773,
+                    "instruction": -1,
+                    "labels": [
+                        2
+                    ],
+                    "caption": "correct error in step 6"
+                }
+            ]
+        },
+        {
+            "task_id": "tsumiki",
+            "video_id": "S1760004",
+            "segments": [
+                {
+                    "startTime": 4.57795,
+                    "endTime": 11.923258,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 12.977021,
+                    "endTime": 18.889987,
+                    "instruction": -1,
+                    "labels": [
+                        1
+                    ],
+                    "caption": "grasp a long blue thin cuboid block"
+                },
+                {
+                    "startTime": 19.572887,
+                    "endTime": 22.893139,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 23.888057,
+                    "endTime": 30.544825,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 37.991808,
+                    "endTime": 51.479478,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 57.259844,
+                    "endTime": 65.00534,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 73.328728,
+                    "endTime": 79.379641,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 80.852149,
+                    "endTime": 83.91629,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 85.187688,
+                    "endTime": 92.88687,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "task_id": "tsumiki",
+            "video_id": "S1760006",
+            "segments": [
+                {
+                    "startTime": 2.872178,
+                    "endTime": 12.923649,
+                    "instruction": 0,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 13.696076,
+                    "endTime": 21.734698,
+                    "instruction": 1,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 24.313763,
+                    "endTime": 34.349372,
+                    "instruction": 2,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 38.551111,
+                    "endTime": 49.196369,
+                    "instruction": 3,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 50.410277,
+                    "endTime": 59.06666,
+                    "instruction": 4,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 62.025634,
+                    "endTime": 64.600886,
+                    "instruction": 5,
+                    "labels": [],
+                    "caption": ""
+                },
+                {
+                    "startTime": 66.919869,
+                    "endTime": 76.123037,
+                    "instruction": 6,
+                    "labels": [],
+                    "caption": ""
+                }
+            ]
+        }
+    ],
+    "instructions": {
+        "blacklight": [
+            "Pour about 15mL of water into a cup, dip the tip of a red highlighter in the water and squeeze out a drop.",
+            "Pour about 15mL of water into a cup, dip the tip of a green highlighter in the water and squeeze out a drop.",
+            "Pour about 15mL of water into a cup, dip the tip of a yellow highlighter in the water and squeeze out a drop.",
+            "Take out the powdered detergent into a cup, add about 15mL of water and dissolve it.",
+            "Shine a black light on each liquid to examine its luminescence color.",
+            "Mix powdered detergent, red, and green liquid in a cup.",
+            "Mix powdered detergent and yellow liquid in a cup.",
+            "Check the color of the mixed liquid by shining a black light on it to see if it turns white."
+        ],
+        "cardboard": [
+            "Draw auxiliary lines of the shape and the fold on cardboard according to dimensional drawings.",
+            "Cut along the auxiliary lines of the shape",
+            "Leave the ends of the liner for gluing.",
+            "Make incisions on the auxiliary lines of the fold.",
+            "Fold along the incisions of the fold.",
+            "Adhere the liner with glue.",
+            "Tape a lid paper and a bottom paper to the cardboard to secure them in place.",
+            "Cut along the auxiliary lines of the shape on the paper.",
+            "Make a cross-shaped incision in the lid.",
+            "Make incisions on the auxiliary lines of the fold on the paper.",
+            "Fold along the incisions of the fold.",
+            "Put chopsticks through the cutout in the lid to widen the hole.",
+            "Adhere the lid and the bottom with glue so that they cover the body.",
+            "Put chopsticks in the body."
+        ],
+        "electronics": [
+            "Connect the battery box and switch S1 in series.",
+            "Connect the switch S1 and motor in series.",
+            "Connect switch S2 and lamp L1 in parallel.",
+            "Connect the switch S2 in series with the motor and the battery box.",
+            "Put a propeller on the motor.",
+            "Put two battery in the battery box.",
+            "Turn on the switch S1.",
+            "Turn on the switch S2."
+        ],
+        "ion": [
+            "Put a microplate on a grid of a worksheet.",
+            "Take a pair of tweezers out of a bag.",
+            "Put three copper plates on the left column of the microplate using the pair of tweezers.",
+            "Put three zinc plates on the center column of the microplate using the pair of tweezers.",
+            "Put three magnesium plates on the right column of the microplate using the pair of tweezers.",
+            "Put a drop of copper sulfate aqueous solution on each first row of the metal plates.",
+            "Put a drop of zinc sulfate aqueous solution on each middle row of the metal plates.",
+            "Put a drop of magnesium sulfate aqueous solution on each last row of the metal plates.",
+            "Fill in a table in the worksheet with results, and then write down names of metals in the worksheet frorm the most reactive one."
+        ],
+        "tsumiki": [
+            "Arrange three cube blocks in a row from left to right in the order of blue, green, and yellow.",
+            "Bridge two long thin cuboid blocks on the square blocks from left to right in the order of blue and green.",
+            "Stand three short thin cuboid blocks equally spaced from left to right in the order of blue, green, and yellow.",
+            "Bridge two long thin cuboid blocks on the upright blocks from left to right in the order of yellow and red.",
+            "Place two thick cuboid blocks on the bridge, laying them down in order from left to right, yellow to red.",
+            "Lay one blue thick cuboid block down and stack it in the upper center of the yellow and the red bhick cuboid blocks.",
+            "Place two triangular prism blocks on both sides of the blue thick cuboid block from left to right in the order of blue and red."
+        ]
+    }
+}
