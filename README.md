@@ -12,25 +12,25 @@ The video contains mistake actions.
 ```json
 {
     "videos": [
-	{
-	    "task_id": str,
-	    "video_id": str,
-	    "segments": [
-		{
-		    "startTime": float (seconds),
-		    "endTime": float (seconds),
-		    "instruction": int (zero-based index),
-		    "labels": list[int] (zero-based index, an empty list means a correct step),
-		    "caption": str (an empty string means a correct step),
-		},
-		...
-	    ],
-	},
-	...
+    {
+        "task_id": str,
+        "video_id": str,
+        "segments": [
+        {
+            "startTime": float (seconds),
+            "endTime": float (seconds),
+            "instruction": int (zero-based index),
+            "labels": list[int] (zero-based index, an empty list means a correct step),
+            "caption": str (an empty string means a correct step),
+        },
+        ...
+        ],
+    },
+    ...
     ],
     "instructions": {
-	"blacklight": list[str],
-	...
+    "blacklight": list[str],
+    ...
     }
 }
 ```
