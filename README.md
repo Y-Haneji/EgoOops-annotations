@@ -41,7 +41,7 @@ The video contains mistake actions.
 
 ## Videos
 
-Download the videos from our laboratory's web page: http://www.lsta.media.kyoto-u.ac.jp/resource/data/EgoOops/
+Download the videos from [our laboratory's web page](http://www.lsta.media.kyoto-u.ac.jp/resource/data/EgoOops/videos-processed-720p.zip)
 
 ```
 |-- blacklight
