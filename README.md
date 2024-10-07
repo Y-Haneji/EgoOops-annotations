@@ -2,12 +2,12 @@
 
 ## Overview
 
-EgoOops is a dataset collecting egocentric videos where workers follow procedural texts.
+[EgoOops](https://y-haneji.github.io/EgoOops-project-page/ "Project page") is a dataset collecting egocentric videos where workers follow procedural texts.
 The video contains mistake actions.
 
 ## Annotations
 
-`meta/metadata.json`: annotations of video-text alignment (time stamps and steps), mistake labels, descripion explaining errors
+[`meta/metadata.json`](/meta/metadata.json): annotations of video-text alignment (time stamps and steps), mistake labels, descripion explaining errors
 
 ```json
 {
@@ -35,9 +35,9 @@ The video contains mistake actions.
 }
 ```
 
-`meta/microqr/${task_id}.json`: alignment between the number embedded in a QR code attached an object and the name of the object
+[`meta/microqr/${task_id}.json`](/meta/microqr/): alignment between the number embedded in a QR code attached an object and the name of the object
 
-`meta/mistake_classes.json`: a list of the names of the annotated mistake classes 
+[`meta/mistake_classes.json`](/meta/mistake_classes.json): a list of the names of the annotated mistake classes
 
 ## Videos
 
@@ -66,4 +66,3 @@ The task names in the dataset are different from ones used in the paper. Refer t
 | electronics | electrical circuits (EC)        |
 | ion         | ionic reaction experiments (IR) |
 | tsumiki     | toy block building (BB)         |
-
