@@ -2,8 +2,7 @@
 
 ## Overview
 
-[EgoOops](https://y-haneji.github.io/EgoOops-project-page/ "Project page") is a dataset collecting egocentric videos where workers follow procedural texts.
-The video contains mistake actions.
+This is the official repository for annotations of the EgoOops dataset proposed in [EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts](https://y-haneji.github.io/EgoOops-project-page/, "Project page").
 
 ## Annotations
 
