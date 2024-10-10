@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the official repository for annotations of the EgoOops dataset proposed in [EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts](https://y-haneji.github.io/EgoOops-project-page/, "Project page").
+This is the official repository for annotations of [the EgoOops dataset](https://y-haneji.github.io/EgoOops-project-page/ "Project page") proposed in [EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts](https://arxiv.org/abs/2410.05343, "arXiv").
 
 ## Annotations
 
@@ -70,15 +70,16 @@ The task names in the dataset are different from ones used in the paper. Refer t
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://y-haneji.github.io/EgoOops-project-page/">EgoOops</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://y-haneji.github.io/homepage/">Yuto Haneji</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
-## BibTex
+## BibTeX
 
 ```bibtex
-@misc{haneji2024egooops,
-  title={EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts},
-  author={Haneji, Yuto and Nishimura, Taichi and Kameko, Hirotaka and Yoshida, Tomoya and Shirai, Keisuke and Kajimura, Keiya and Yamamoto, Koki and Cui, Taiyu and Nishimoto, Tomohiro and Mori, Shinsuke},
-  year={2024},
-  eprint={TBW},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
+@misc{haneji2024egooopsdatasetmistakeaction,
+      title={EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts},
+      author={Yuto Haneji and Taichi Nishimura and Hirotaka Kameko and Keisuke Shirai and Tomoya Yoshida and Keiya Kajimura and Koki Yamamoto and Taiyu Cui and Tomohiro Nishimoto and Shinsuke Mori},
+      year={2024},
+      eprint={2410.05343},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.05343},
 }
 ```
