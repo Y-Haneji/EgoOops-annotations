@@ -4,6 +4,10 @@
 
 This is the official repository for annotations of [the EgoOops dataset](https://y-haneji.github.io/EgoOops-project-page/ "Project page") proposed in [EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts](https://arxiv.org/abs/2410.05343, "arXiv").
 
+## TODO
+
+- [] Add the list of the video files
+
 ## Annotations
 
 [`meta/metadata.json`](/meta/metadata.json): annotations of video-text alignment (time stamps and steps), mistake labels, descripion explaining errors
