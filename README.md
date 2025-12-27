@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the official repository for annotations of [the EgoOops dataset](https://y-haneji.github.io/EgoOops-project-page/ "Project page") proposed in [EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts](https://arxiv.org/abs/2410.05343, "arXiv").
+This is the official repository for annotations of [the EgoOops dataset](https://y-haneji.github.io/EgoOops-project-page/ "Project page") proposed in [EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos referring to Procedural Texts](https://openaccess.thecvf.com/content/ICCV2025W/SAUAFG/papers/Haneji_EgoOops_A_Dataset_for_Mistake_Action_Detection_from_Egocentric_Videos_ICCVW_2025_paper.pdf "ICCVW'25").
 
 ## TODO
 
@@ -77,13 +77,13 @@ The task names in the dataset are different from ones used in the paper. Refer t
 ## BibTeX
 
 ```bibtex
-@misc{haneji2024egooopsdatasetmistakeaction,
-      title={EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts},
-      author={Yuto Haneji and Taichi Nishimura and Hirotaka Kameko and Keisuke Shirai and Tomoya Yoshida and Keiya Kajimura and Koki Yamamoto and Taiyu Cui and Tomohiro Nishimoto and Shinsuke Mori},
-      year={2024},
-      eprint={2410.05343},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2410.05343},
+@InProceedings{haneji2025egooops,
+  author    = {Yuto Haneji and Taichi Nishimura and Hirotaka Kameko and Keisuke Shirai and Tomoya Yoshida and Keiya Kajimura and Koki Yamamoto and Taiyu Cui and Tomohiro Nishimoto and Shinsuke Mori},
+  title     = {EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos referring to Procedural Texts},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+  year      = {2025},
+  month     = {October},
+  pages     = {2690--2700},
+  url       = {https://openaccess.thecvf.com/content/ICCV2025W/SAUAFG/papers/Haneji_EgoOops_A_Dataset_for_Mistake_Action_Detection_from_Egocentric_Videos_ICCVW_2025_paper.pdf}
 }
 ```
